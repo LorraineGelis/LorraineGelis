@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **LorraineGelis/LorraineGelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Lorraine, 👋
+
+I'm a front-end developer in progress, located in Bogotá (Colombia) 😄
+
+🌱 I’m currently learning JavaScript, DOM y HTML, CSS.
