@@ -18,4 +18,4 @@ Hi, I'm Lorraine, 👋
 
 I'm a front-end developer in progress, located in Bogotá (Colombia) 😄
 
-🌱 I’m currently learning JavaScript, DOM y HTML, CSS.
+🌱 I’m currently learning JavaScript, DOM, HTML y CSS.
