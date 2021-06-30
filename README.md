@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 Hi, I'm Lorraine, 👋
 
+
+![](https://github.com/LorraineGelis/LorraineGelis/blob/master/IMG/javascript.gif) 
+
+
+
 I'm a front-end developer in progress, located in Bogotá (Colombia) 😄
 
 🌱 I’m currently learning JavaScript, DOM, HTML y CSS.
